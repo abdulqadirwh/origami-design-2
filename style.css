@@ -1,0 +1,42 @@
+.header{
+    background-color: orchid;
+    display:flex;
+justify-content: space-between;
+}
+.menu{
+    display: flex; 
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+}
+.footer{
+    display: flex;
+justify-content: flex-end;
+}
+.grid{
+    display: flex; 
+ flex-wrap: wrap;
+ justify-content: space-evenly;
+ }
+ .footer{
+    display: flex;
+justify-content: flex-end;
+}
+h2{
+    background-color :lime;
+    text-align: center; 
+ }
+.l1{
+  color: aquamarine;   
+ } 
+.l1{
+    color: aqua;   
+   }
+.l1{
+    color: aquamarine;   
+   } 
+.l1{
+    color: aqua;   
+   }
+.l1{
+    color: aquamarine;   
+   }
